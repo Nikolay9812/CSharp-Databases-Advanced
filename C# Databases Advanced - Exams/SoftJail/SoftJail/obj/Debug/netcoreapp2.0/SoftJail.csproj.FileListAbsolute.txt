@@ -1,0 +1,22 @@
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.genruntimeconfig.cache
+C:\Users\GL72M 7RDX-1043CZ\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+C:\Users\GL72M 7RDX-1043CZ\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\GL72M 7RDX-1043CZ\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\GL72M 7RDX-1043CZ\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\GL72M 7RDX-1043CZ\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb

@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Demo\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Demo\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Demo\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Demo\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Demo\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Demo\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Demo\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Demo\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Demo\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Demo\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Demo\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb

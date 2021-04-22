@@ -1,0 +1,4 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\1. Initial Setup\bin\Debug\netcoreapp3.1\1. Initial Setup.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\1. Initial Setup\obj\Debug\netcoreapp3.1\1. Initial Setup.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\1. Initial Setup\obj\Debug\netcoreapp3.1\1. Initial Setup.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\1. Initial Setup\obj\Debug\netcoreapp3.1\1. Initial Setup.AssemblyInfo.cs

@@ -1,0 +1,17 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\9. Increase Age Stored Procedure.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\obj\Debug\netcoreapp3.1\9. Increase Age Stored Procedure.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\obj\Debug\netcoreapp3.1\9. Increase Age Stored Procedure.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\9. Increase Age Stored Procedure.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\9. Increase Age Stored Procedure.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\9. Increase Age Stored Procedure.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\9. Increase Age Stored Procedure.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\9. Increase Age Stored Procedure.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\obj\Debug\netcoreapp3.1\9. Increase Age Stored Procedure.csproj.CopyComplete
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\obj\Debug\netcoreapp3.1\9. Increase Age Stored Procedure.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\9. Increase Age Stored Procedure\obj\Debug\netcoreapp3.1\9. Increase Age Stored Procedure.pdb

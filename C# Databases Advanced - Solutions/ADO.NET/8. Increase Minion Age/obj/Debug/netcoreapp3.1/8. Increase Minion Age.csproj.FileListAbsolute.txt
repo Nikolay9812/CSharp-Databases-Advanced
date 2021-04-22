@@ -1,0 +1,17 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\8. Increase Minion Age.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\obj\Debug\netcoreapp3.1\8. Increase Minion Age.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\obj\Debug\netcoreapp3.1\8. Increase Minion Age.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\8. Increase Minion Age.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\8. Increase Minion Age.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\8. Increase Minion Age.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\8. Increase Minion Age.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\8. Increase Minion Age.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\obj\Debug\netcoreapp3.1\8. Increase Minion Age.csproj.CopyComplete
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\obj\Debug\netcoreapp3.1\8. Increase Minion Age.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\8. Increase Minion Age\obj\Debug\netcoreapp3.1\8. Increase Minion Age.pdb

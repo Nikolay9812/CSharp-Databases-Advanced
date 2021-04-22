@@ -1,0 +1,18 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.csproj.CopyComplete
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.pdb

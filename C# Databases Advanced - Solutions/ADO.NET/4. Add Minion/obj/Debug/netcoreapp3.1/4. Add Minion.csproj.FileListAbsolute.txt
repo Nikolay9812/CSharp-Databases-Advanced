@@ -1,0 +1,17 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.csproj.CopyComplete
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.pdb

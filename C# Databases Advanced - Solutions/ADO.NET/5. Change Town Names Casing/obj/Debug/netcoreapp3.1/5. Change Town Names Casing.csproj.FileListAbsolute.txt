@@ -1,0 +1,18 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.csproj.CopyComplete
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.pdb

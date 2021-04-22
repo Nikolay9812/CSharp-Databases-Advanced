@@ -1,0 +1,18 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.csproj.CopyComplete
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.pdb
